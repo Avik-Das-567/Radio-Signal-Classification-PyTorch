@@ -1,4 +1,4 @@
-# Radio Signal Classification with PyTorch and EfficientNet
+# Radio Signal Classification with PyTorch and EfficientNet-B0
 
 ## Overview
 
